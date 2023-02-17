@@ -557,7 +557,7 @@ function hmrAccept(bundle, id) {
 }
 
 },{}],"lG8gm":[function(require,module,exports) {
-const popmotion = require("dbbce30562c0a41d");
+const popmotion = require("1d11418fd51783b2");
 const ball = document.querySelector(".ball");
 popmotion.animate({
     from: "0px",
@@ -570,7 +570,7 @@ popmotion.animate({
     }
 });
 
-},{"dbbce30562c0a41d":"iemqi"}],"iemqi":[function(require,module,exports) {
+},{"1d11418fd51783b2":"iemqi"}],"iemqi":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "animate", ()=>(0, _indexMjs.animate));
